@@ -8,6 +8,7 @@
     text-decoration: none;
     color: white;
     z-index: 2;
+    max-width: 360px;
 }
 
 @media screen and (max-width: 767px) {
@@ -15,5 +16,6 @@
         padding-top: 16px;
         font-size: 14px;
         line-height: 16px;
+        max-width: 288px;
     }
 }

@@ -1,11 +1,14 @@
 .into {
     width: calc(100% - 2*148px);
     margin: 92px auto 92px;
+    max-width: 690px;
+    padding-right: 294px;
 }
 
 @media screen and (max-width: 1279px) {
     .into {
         width: calc(100% - 2*48px);
+        padding-right: 238px
     }
 }
 
@@ -13,6 +16,8 @@
     .into {
         width: calc(100% - 2*24px);
         margin: 88px auto 88px;
+        max-width: 100%;
+        padding-right: 0;
     }
 }
 
