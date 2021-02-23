@@ -1,4 +1,4 @@
-.header__lang_link {
+.header__lang-link {
     font-weight: 400;
     font-style: normal;
     font-size: 24px;
@@ -7,20 +7,20 @@
     transition: 0.3s;
 }
 
-.header__lang_link:hover {
+.header__lang-link:hover {
     opacity: 0.8;
 }
 
-.header__lang_link:first-child {
+.header__lang-link:first-child {
     margin-right: 18px;
 }
 
-.header__lang_link:last-child {
+.header__lang-link:last-child {
     text-decoration: none;
 }
 
 @media screen and (max-width: 767px) {
-    .header__lang_link {
+    .header__lang-link {
         font-size: 18px;
         line-height: 20px;
     }
