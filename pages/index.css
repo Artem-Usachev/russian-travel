@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* content */
+
+@import url(../bloks/content/content.css);
+
+/* cover */
+
+@import url(../bloks/cover/__link/cover__link.css);
+@import url(../bloks/cover/__overlay/cover__overlay.css);
+@import url(../bloks/cover/__subtitle/cover__subtitle.css);
+@import url(../bloks/cover/__title/cover__title.css);
+@import url(../bloks/cover/cover.css);
+
+/* footer */
+
+@import url(../bloks/footer/__copyright/footer__copyright.css);
+@import url(../bloks/footer/__link/footer__link.css);
+@import url(../bloks/footer/__links/footer__links.css);
+@import url(../bloks/footer/__link/_location/footer__link_location_top.css);
+@import url(../bloks/footer/footer.css);
+
+/* header */
+
+@import url(../bloks/header/__lang-link/header__lang-link.css);
+@import url(../bloks/header/__links/header__links.css);
+@import url(../bloks/header/__logo/header__logo.css);
+@import url(../bloks/header/header.css);
+
+/* into */
+
+@import url(../bloks/into/__list/into__list.css);
+@import url(../bloks/into/__span/into__span.css);
+@import url(../bloks/into/__text/into__text.css);
+@import url(../bloks/into/__title/into__title.css);
+@import url(../bloks/into/into.css);
+
+/* lead */
+
+@import url(../bloks/lead/__caption/lead__caption.css);
+@import url(../bloks/place/__website/place__website.css);
+@import url(../bloks/lead/__title/lead__title.css);
+@import url(../bloks/lead/__image/lead__image.css);
+@import url(../bloks/lead/__subtitle/lead__subtitle.css);
+@import url(../bloks/lead/lead.css);
+
+/* page */
+
+@import url(../bloks/page/page.css);
+
+/* photo-grid */
+
+@import url(../bloks/photo-grid/__item/photo-grid__item.css);
+@import url(../bloks/photo-grid/photo-grid.css);
+
+/* place */
+
+@import url(../bloks/place/__box-image/place__box-image.css);
+@import url(../bloks/place/__image/place__image.css);
+@import url(../bloks/place/__link/place__link.css);
+@import url(../bloks/place/__paragraph/place__paragraph.css);
+@import url(../bloks/place/__text/place__text.css);
+@import url(../bloks/place/__title/place__title.css);
+@import url(../bloks/place/__url-heading/place__url-heading.css);
+@import url(../bloks/place/__website/place__website.css);
+@import url(../bloks/place/place.css);
+
+/* places */
+
+@import url(../bloks/places/places.css);

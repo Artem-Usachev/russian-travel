@@ -1,0 +1,12 @@
+.into__text {
+    font-size: 16px;
+    line-height: 26.08px;
+    padding-bottom: 33px;
+    margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .into__text {
+        padding-bottom: 34px;
+    }
+}
