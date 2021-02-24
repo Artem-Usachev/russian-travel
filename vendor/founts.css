@@ -1,6 +1,7 @@
 @font-face {
     font-family: Inter;
-    src: url(../founts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+    src: url(../founts/Inter/Inter-Bold.ttf);
+    font-weight: 700;
 }
 
 @font-face {

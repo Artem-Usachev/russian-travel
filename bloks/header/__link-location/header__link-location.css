@@ -1,0 +1,8 @@
+.header__link-location {
+    padding: 0;
+    margin: 0;
+}
+
+.header__link-location:first-of-type {
+    padding-right: 18px;
+}
