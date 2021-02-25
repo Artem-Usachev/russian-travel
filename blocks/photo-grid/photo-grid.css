@@ -28,3 +28,9 @@
         margin-bottom: 64px;
     }
 }
+
+@media screen and (max-width: 616px) {
+    .photo-grid {
+        grid-template-columns: minmax(min-content, max-content);
+    }
+}
